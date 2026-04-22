@@ -1,1 +1,1 @@
-This is a thesis data EDA project.
+This is my thesis data EDA.
